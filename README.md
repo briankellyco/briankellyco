@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**briankellyco/briankellyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open Source Projects
 
-Here are some ideas to get you started:
+| 🎁 Projects                                                                                 | Stars                                                                                          | Issues                                                                                 | Pull requests                                                                                       |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                      | ![](https://img.shields.io/github/stars/briankellyco/aws-cdk-examples?color=green)                | ![](https://img.shields.io/github/issues/briankellyco/aws-cdk-examples?color=green)       | ![](https://img.shields.io/github/issues-pr/briankellyco/aws-cdk-examples?color=green)                   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=briankellyco&color=brightgreen" alt="profile views"> •
+</p>
+
+![](https://komarev.com/ghpvc/?username=briankellyco&color=brightgreen)
