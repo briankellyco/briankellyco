@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Cloud Solutions Architect / Developer. 
+Cloud Solutions Architect / Developer
 
 Java | Kotlin | AWS | DevOps
 
