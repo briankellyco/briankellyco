@@ -2,7 +2,7 @@
 
 I'm a Cloud Solutions Architect / Developer
 
-Java | Kotlin | AWS | DevOps
+Java | Kotlin | Typescript | AWS | DevOps
 
 ### Open Source Projects
 
